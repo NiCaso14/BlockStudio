@@ -1,0 +1,1 @@
+{"name": "blockstudio","version": "1.0.0","description": "A project for BlockStudio.","main": "index.js","scripts": {"test": "echo \"Error: no test specified\" && exit 1"},"repository": {"type": "git","url": "https://github.com/NiCaso14/BlockStudio.git"},"keywords": [],"author": "NiCaso14","license": "ISC"}
